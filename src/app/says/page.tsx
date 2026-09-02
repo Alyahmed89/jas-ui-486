@@ -1,3 +1,3 @@
 export default function Page() {
-  return <h1>Built by JAS</h1>;
+  return <h1>Hello From JAS</h1>;
 }
